@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{ADDF6FA7-E545-417F-866A-8D3F96CB6D71}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleHeartAnimation/ViewController.cs">
+    <Files>
+      <File FileName="SampleHeartAnimation/ViewController.cs" Line="54" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/apple/Projects/SampleHeartAnimation/SampleHeartAnimation/ViewController.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleHeartAnimation PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A84BE647-1097-441C-BDE6-F254F9642D5C" />
+</Properties>
